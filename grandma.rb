@@ -20,8 +20,8 @@ def speak_to_grandma(string)
 end
 
   elsif string == 'WHAT DID YOU EAT TODAY?'
-     "I LOVE YOU TOO PUMPKIN!"
-   else
+     "NO, NOT SINCE 1938!"
+   elsif
      "HUH?! SPEAK UP, SONNY!"
   end
 end
